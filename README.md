@@ -8,7 +8,9 @@ one new long string. The resulting DNA sequence is a combination of two parent s
 he wants to know is which of the two parents contributed the longest sequence.
 
 Parent 1: CABCABCABCCT
+
 Parent 2: TTTCCCBBBCCC
+
 Child:    CABCABCTTTCC
 
 The answer given the sample above would be Parent 1 =&gt; CABCABC.
